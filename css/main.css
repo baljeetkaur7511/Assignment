@@ -1,0 +1,346 @@
+body {
+
+    padding: 10px;
+
+    margin: auto;
+
+    width: 10 ;
+
+    max-width: 10;
+
+    border: 10px solid #daed8e ;
+
+  }
+
+ 
+
+  header {
+
+    border: 1px solid #bb66df;
+
+    margin: 10px;
+
+    padding: 10px;
+
+    background-color: rgb(221, 121, 153);
+
+    border-radius: 5px;
+
+    width:7;
+
+  }
+
+ 
+
+  footer {
+
+    border: 1px solid #302121;
+
+    margin: 10px;
+
+    padding: 10px;
+
+    background-color: rgb(130, 225, 238);
+
+    clear: both;
+
+    font-size: 12px;
+
+    text-align: center;
+
+    border-radius: 5px;
+
+  }
+
+ 
+
+  nav {
+
+    border: 1px solid #7490e3;
+
+    margin: 10px;
+
+    padding: 10px;
+
+    text-align: right;
+
+    border-radius: 5px;
+
+  }
+
+ 
+
+  aside {
+
+    float:right;
+
+    width: 35%;
+
+   
+
+ 
+
+  }
+
+ 
+
+  main {
+
+    float: left;
+
+    width: 50%;
+
+    margin: 10px;
+
+    padding: 10px;
+
+   
+
+    border-radius: 5px;
+
+  }
+
+ 
+
+  a {
+
+    text-decoration: none; /* */
+
+    font-size: 24px; /* */
+
+    color: #eaa0a0; /* */
+
+    border: 2px solid #4ed867; /* */
+
+    border-radius: 4px; /* */
+
+ 
+
+  }
+
+ 
+
+  ul {
+
+    list-style: none;
+
+    line-height: 1.5;
+
+  }
+
+ 
+
+  p {
+
+ 
+
+    margin: 30px auto;
+
+    /
+
+  }
+
+ 
+
+  figcaption {
+
+    padding: 9px 0;
+
+    font-size: 24px;
+
+  }
+
+ 
+
+  a:hover {
+
+    color: #d88eb0;
+
+    background-color: #3E001F;
+
+  }
+
+ 
+
+  .logo {
+
+    height: 30px;
+
+    width: 30px;
+
+ 
+
+  }
+
+ 
+
+  .avif {
+
+    height: 250px;
+
+    width: 250px;
+
+    border-radius: 6px;
+
+  }
+
+ 
+
+  .main-image {
+
+    border: 9px solid #AED8CC;
+
+    height: 300px;
+
+    width: 400px;
+
+    padding: 6px;
+
+    border-radius: 5px;
+
+  }
+
+ 
+
+  .main-video{
+
+    border: 3px solid #AED8CC;
+
+    border: 9px solid #AED8CC;
+
+    height: 200px;
+
+    width: 300px;
+
+    padding: 6px;
+
+    border-radius: 5px;
+
+  }
+
+ 
+
+  .copy-right {
+
+      margin: auto;
+
+  }
+
+main form {
+
+  max-width: 650px;
+
+  margin: 0 auto;
+
+  padding: 21px;
+
+  border: 1.2px solid #d2ef99;
+
+}
+
+
+
+
+fieldset {
+
+  margin-bottom: 21px;
+
+  border: none;
+
+}
+
+
+
+
+legend {
+
+  font-size: 21px;
+
+  font-weight: bold;
+
+}
+
+label {
+
+  display: block;
+
+  margin-bottom: 6px;
+
+}
+
+
+
+
+input[type="text"],
+
+input[type="email"],
+
+input[type="tel"],
+
+select,
+
+textarea {
+
+  width: 101%;
+
+  padding: 11px;
+
+  border: 1.2px solid #a759ce;
+
+  border-radius: 5px;
+
+  margin-bottom: 11px;
+
+}
+
+
+
+
+textarea {
+
+  resize: vertical;
+
+}
+
+
+
+
+label input[type="radio"] {
+
+  margin-right: 6px;
+
+}
+
+
+
+
+/* Style the Submit and Reset buttons */
+
+input[type="submit"],
+
+input[type="reset"] {
+
+  background-color: #e6ab59;
+
+  color: #fff;
+
+  padding: 11px 22px;
+
+  border: none;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+}
+
+
+
+
+input[type="submit"]:hover,
+
+input[type="reset"]:hover {
+
+  background-color: #62d7cf;
+
+}
